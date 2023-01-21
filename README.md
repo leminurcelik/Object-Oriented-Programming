@@ -1,0 +1,2 @@
+# Object Oriented Programming
+In the Object Oriented Programming course, 3 assignments were done. In the first assignment, classes and constructors were used to implement Satoshi Tajiri’s great game "Pokémon" as a text-based strategy game. In the second assignment, inheritance was used to implement a turn-based game called "Explore&Mine". In the third assignment, polymorphism was used to implement a "Confidence Interval Estimator".
